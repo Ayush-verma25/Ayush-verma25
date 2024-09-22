@@ -6,7 +6,7 @@
 - LinkedIn: https://www.linkedin.com/in/ayush-verma-2b8223329/
 - Gmail: ayve012@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I am seeking a Full stack developer or Mern Stack Developer job.
+- ⚡ Important fact: I am seeking a Full stack developer or Mern Stack Developer job.
 
 <!---
 Ayush-verma25/Ayush-verma25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
