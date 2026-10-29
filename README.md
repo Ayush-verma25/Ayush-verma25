@@ -1,247 +1,162 @@
-<!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ayush%20Verma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=20" width="100%" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Ayush%20Verma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%26%20PERN%20%7C%20Building%20useful%20web%20products&descAlignY=61&descSize=18" width="100%" alt="Ayush Verma banner" />
 
 <a href="https://github.com/Ayush-verma25">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Ayush+Verma;MERN+Stack+%26+Full+Stack+Developer;I+build+responsive%2C+scalable+web+apps;%F0%9F%9A%80+Open+to+Work+%E2%80%94+Let's+build+something+great!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=1000&color=2DD4BF&center=true&vCenter=true&width=780&lines=Hi%2C+I%27m+Ayush+Verma+%F0%9F%91%8B;Full-stack+developer+who+builds+end-to-end+web+products;React+%7C+TypeScript+%7C+Node.js+%7C+MongoDB+%7C+PostgreSQL;%F0%9F%9F%A2+Open+to+work+and+ready+to+contribute" alt="Typing introduction" />
 </a>
 
-<br/>
+<br />
 
-![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2%20OPEN%20TO%20WORK-Full%20Stack%20%7C%20MERN%20Developer-brightgreen?style=for-the-badge)
-![Location](https://img.shields.io/badge/%F0%9F%93%8D%20Ajmer%2C%20Rajasthan%2C%20India-informational?style=for-the-badge)
-![Profile Views](https://komarev.com/ghpvc/?username=Ayush-verma25&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-
-<br/>
+[![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-Full--Stack%20%7C%20MERN%20%7C%20React-2EA44F?style=for-the-badge&logo=briefcase&logoColor=white)](mailto:ayve012@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Ajmer%2C%20Rajasthan%2C%20India-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Ajmer,Rajasthan,India)
+[![Profile views](https://komarev.com/ghpvc/?username=Ayush-verma25&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/Ayush-verma25)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-verma-2b8223329/)
-[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayve012@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayush-verma25)
+[![Email](https://img.shields.io/badge/Email-ayve012%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayve012@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Ayush--verma25-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayush-verma25)
 
 </div>
 
----
+## About me
 
-## 👨‍💻 About Me
+I’m a full-stack developer focused on building polished, reliable web applications from the first interface to the deployed backend. My work has evolved from responsive frontend applications into production-style SaaS, e-commerce, automation, HR, and learning platforms.
 
-I'm a **motivated and detail-oriented Full Stack (MERN) Developer** with a strong foundation in modern web technologies and a passion for building **dynamic, responsive and user-friendly applications**.
+- I build with **React, TypeScript, Node.js, Express, MongoDB, PostgreSQL, and Prisma**.
+- I’m comfortable shaping an application end to end: user flows, APIs, authentication, database design, media uploads, background jobs, payments, and deployment.
+- I care about clean user experiences, role-based access, sensible validation, and documentation that makes a project easy to understand.
+- I’m actively seeking a **Full-Stack Developer, MERN Stack Developer, React Developer, or Node.js Developer** opportunity.
 
-- 🔭 I build end-to-end applications: **React / Angular** front-ends, **Node.js + Express** REST APIs, and **MongoDB / MySQL** databases.
-- 🚢 I ship my work: my projects are **deployed live** on Vercel and Render, not just sitting in a repo.
-- 🧩 I enjoy turning ideas into clean UIs and solving real problems with maintainable code.
-- 🌱 I'm committed to **continuous learning** and keeping up with industry trends.
-- 🤝 I work well in teams and I'm always open to **collaborating on new projects** to grow as a developer.
+> **Available for full-time roles, internships, freelance work, and collaborative projects.**  
+> If my work matches what your team is building, reach me at [ayve012@gmail.com](mailto:ayve012@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/ayush-verma-2b8223329/).
 
-> 💼 **I'm actively looking for a Full Stack Developer / MERN Stack Developer role.** If you think I'd be a good fit for your team, I'd love to hear from you!
+## What I bring
 
----
+| Area | Strengths |
+| :-- | :-- |
+| **Frontend** | Responsive React applications, TypeScript, routing, state management, Tailwind CSS, component-driven UI |
+| **Backend** | Node.js, Express, REST APIs, authentication, authorization, validation, file handling |
+| **Data** | MongoDB/Mongoose, PostgreSQL/Neon, Prisma, data modelling, query design |
+| **Product engineering** | Role-based workflows, dashboards, payments, AI integrations, media pipelines, scheduled jobs |
+| **Quality mindset** | Clear READMEs, architecture notes, error states, loading states, secure environment configuration |
 
-## 🟢 Open to Work
+## Selected projects
 
-<table>
-  <tr>
-    <td><b>🎯 Roles</b></td>
-    <td>Full Stack Developer • MERN Stack Developer • Frontend Developer • React Developer • Backend (Node.js) Developer</td>
-  </tr>
-  <tr>
-    <td><b>📍 Location</b></td>
-    <td>Ajmer, Rajasthan, India (IST, UTC +05:30) — open to remote / relocation</td>
-  </tr>
-  <tr>
-    <td><b>⏱️ Availability</b></td>
-    <td>Immediately available</td>
-  </tr>
-  <tr>
-    <td><b>📫 Contact</b></td>
-    <td><a href="mailto:ayve012@gmail.com">ayve012@gmail.com</a> • <a href="https://www.linkedin.com/in/ayush-verma-2b8223329/">LinkedIn</a></td>
-  </tr>
-</table>
+### [Orbivo — Multi-Tenant E-Commerce Platform](https://github.com/Ayush-verma25/Orbivo-E-Commerce-Platform-App)
 
----
+A production-style, multi-tenant commerce platform where merchants launch isolated branded stores while customers, merchants, and platform administrators each get purpose-built experiences.
 
-## 🛠️ Tech Stack & Skills
+- **React 19 + TypeScript + Node.js + Express + PostgreSQL + Prisma**
+- Merchant storefronts, product/catalogue management, orders, inventory, themes, and platform moderation
+- Role-aware experiences for customers, merchants, and administrators
+- AI-assisted product photography and Cloudinary media handling
 
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,vue,redux,tailwind,bootstrap&perline=10" alt="Frontend skills" />
+[View repository →](https://github.com/Ayush-verma25/Orbivo-E-Commerce-Platform-App)
+
+### [Vertexa — Full-Stack AI SaaS](https://github.com/Ayush-verma25/Vertexa-Full-Stack-AI-SaaS-App)
+
+An AI productivity platform that combines content generation, image tools, resume review, subscriptions, and a community gallery.
+
+- **React 19 + Express 5 + PostgreSQL/Neon + Clerk + Gemini + Cloudinary**
+- Server-enforced plan gating, authentication, billing, usage limits, creation history, and social interactions
+- AI article writing, blog-title generation, text-to-image, background/object removal, and PDF resume review
+- Built with a serverless-ready deployment approach
+
+[View repository →](https://github.com/Ayush-verma25/Vertexa-Full-Stack-AI-SaaS-App)
+
+### [PostPilot — Social Media Automation](https://github.com/Ayush-verma25/PostPilot-Social-Media-Automation-Platform-App)
+
+A TypeScript MERN platform for composing, scheduling, and publishing social content across multiple networks.
+
+- **React + TypeScript + Node.js + Express + MongoDB**
+- AI-generated copy and images, social-account connection, publishing queue, and activity dashboard
+- Integrates Gemini, Leonardo AI, Cloudinary, and a unified social-publishing API
+- Designed for reliable scheduling with atomic claims, idempotency, and reconciliation
+
+[View repository →](https://github.com/Ayush-verma25/PostPilot-Social-Media-Automation-Platform-App)
+
+### [WorkPilot — Employee Management System](https://github.com/Ayush-verma25/WorkPilot_Employment_Management_App_MERN)
+
+A role-based HR platform for employee records, attendance, leave, payroll, and operational follow-ups.
+
+- **React 19 + Express 5 + MongoDB + Inngest**
+- Separate admin and employee portals with secure JWT-based access
+- Attendance tracking, leave workflows, payslips, employee lifecycle management, and soft deletion
+- Background automation for check-in reminders and unattended leave-request escalation
+
+[View repository →](https://github.com/Ayush-verma25/WorkPilot_Employment_Management_App_MERN)
+
+### [SkillSpring — Learning Management System](https://github.com/Ayush-verma25/LMS-Website-App-MERN)
+
+A full-stack LMS for students to discover and buy courses, and for educators to publish and manage them.
+
+- **React + Node.js + Express + MongoDB + Clerk + Stripe + Cloudinary**
+- Course authoring, learning progress, ratings, educator dashboards, media management, and checkout
+- Webhook-driven synchronization for authentication and payments
+- Designed around real student and educator workflows
+
+[View repository →](https://github.com/Ayush-verma25/LMS-Website-App-MERN)
+
+### [ResumeNova — AI Resume Builder](https://github.com/Ayush-verma25/ResumeNova-AI-Resume-Builder-APP)
+
+A browser-based resume builder with live previews, templates, public sharing, PDF export, and AI assistance.
+
+- **React 19 + Node.js + Express + MongoDB + OpenAI-compatible LLMs**
+- AI enhancement for summaries and experience descriptions
+- PDF import that converts existing resumes into editable structured content
+- Multiple templates, accent themes, image support, and shareable public links
+
+[View repository →](https://github.com/Ayush-verma25/ResumeNova-AI-Resume-Builder-APP)
+
+## Technical toolkit
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,vue,redux,tailwind,bootstrap,nodejs,express,mongodb,postgres,prisma,mysql,git,github,postman,vercel,cloudinary,firebase&perline=11" alt="Technology icons for Ayush's skills" />
 </p>
 
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express&perline=10" alt="Backend skills" />
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=10" alt="Database skills" />
-</p>
-
-### ☁️ Tools, Cloud & Deployment
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,firebase,vercel&perline=10" alt="Tools" />
-</p>
-
-| Area | Technologies |
-| :--- | :--- |
+| Category | Technologies |
+| :-- | :-- |
 | **Languages** | JavaScript (ES6+), TypeScript, HTML5, CSS3, SQL |
-| **Frontend** | React.js (Vite & CRA), Angular, Vue.js (learning), Redux Toolkit, Tailwind CSS, Bootstrap, Recharts |
-| **Backend** | Node.js, Express.js, RESTful API design, Axios |
-| **Databases** | MongoDB (NoSQL), MySQL (SQL) |
-| **Tools & Platforms** | Git, GitHub, Postman, VS Code, npm / yarn, Firebase |
-| **Deployment** | Vercel, Render |
-| **Concepts** | REST APIs, Component-based architecture, State management, Responsive design, Third-party API integration |
+| **Frontend** | React, Angular, Vue, Redux Toolkit, Tailwind CSS, Bootstrap, Vite |
+| **Backend** | Node.js, Express, REST APIs, JWT, Clerk, webhooks, background jobs |
+| **Databases** | MongoDB, Mongoose, PostgreSQL, Neon, Prisma, MySQL |
+| **Integrations** | Stripe, Cloudinary, Gemini, OpenAI-compatible APIs, social APIs |
+| **Delivery** | Git, GitHub, Postman, npm/yarn, Vercel, Render, environment-based configuration |
 
----
+## Engineering focus
 
-## 🚀 Featured Projects
+I enjoy solving the practical parts of full-stack product development:
 
-### 🪙 [Full-Stack Crypto Tracker App](https://github.com/Ayush-verma25/Full-Stack-Crypto-Tracker-App)
-> A full-stack web app that displays the **top 10 cryptocurrencies** with **real-time price updates every 3 minutes**.
+- Designing clean, responsive interfaces that work well across devices
+- Building APIs with authentication, authorization, role-based workflows, and robust error handling
+- Modelling data for real application flows rather than isolated demos
+- Integrating third-party services thoughtfully: payments, media, AI, and external APIs
+- Writing thorough project documentation so collaborators can run, review, and extend the work
 
-- 📊 Interactive charts and visualizations built with **Recharts**
-- 🔄 Auto-refreshing data pulled from the **CoinGecko API** through a REST backend
-- 🏗️ Clean, modular architecture — separate `client/` and `server/` with controllers, models and routes
-- 📱 Fully responsive UI with **Tailwind CSS**
-- ☁️ Frontend deployed on **Vercel**, backend deployed on **Render**
-
-![React](https://img.shields.io/badge/React-Vite-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-[🌐 Live Demo](https://full-stack-crypto-tracker-app.vercel.app) • [📂 Source Code](https://github.com/Ayush-verma25/Full-Stack-Crypto-Tracker-App)
-
----
-
-### 🛒 [YourCartShop.IO — Angular E-Commerce Storefront](https://github.com/Ayush-verma25/YourCartShop-App-Angular)
-> A responsive e-commerce storefront built with **Angular 16** and **Bootstrap 5**.
-
-- 🛍️ Browse categories (Fashion, Home & Furniture, Appliances, Toys) and **filter by sub-category**
-- 🔎 Product details page with smart **"Add to Cart" → "Go to Cart"** button behavior
-- 🧺 Shopping cart with quantity controls, item removal and a live price summary
-- 💾 Cart persisted across refreshes using `localStorage`
-- ✅ Order confirmation modal with a demo Cash-on-Delivery flow
-- 📖 Extensively documented — architecture diagrams, routing, data model, known limitations and roadmap
-
-![Angular](https://img.shields.io/badge/Angular-16-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-5-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
-
-[🌐 Live Demo](https://your-cart-shop-app-angular.vercel.app) • [📂 Source Code](https://github.com/Ayush-verma25/YourCartShop-App-Angular)
-
----
-
-### 💬 [Slack Clone 2.0 — React](https://github.com/Ayush-verma25/Slack-Clone-2.0-ReactJs)
-> A Slack-inspired team messaging UI built with **React** and **Redux Toolkit**, with **Firebase** configuration for hosting.
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-[🌐 Live Demo](https://slack-clone-2-0-react-js.vercel.app) • [📂 Source Code](https://github.com/Ayush-verma25/Slack-Clone-2.0-ReactJs)
-
----
-
-### 👻 [Snapchat Clone — React](https://github.com/Ayush-verma25/SnapChat-Clone-ReactJS)
-> A Snapchat-inspired web app built with **React** and **Redux Toolkit**, with **Firebase** configuration for hosting.
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-[🌐 Live Demo](https://snap-chat-clone-react-js.vercel.app) • [📂 Source Code](https://github.com/Ayush-verma25/SnapChat-Clone-ReactJS)
-
----
-
-### 🎬 [Netflix Clone 2 — React](https://github.com/Ayush-verma25/Netflix-Clone-2-ReactJs)
-> A Netflix-inspired streaming UI built with **React** to practice component design and UI layout.
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-[📂 Source Code](https://github.com/Ayush-verma25/Netflix-Clone-2-ReactJs)
-
----
-
-> 📦 **35+ public repositories** — explore them all on my [Repositories tab](https://github.com/Ayush-verma25?tab=repositories).
-
----
-
-## 📈 GitHub Stats
+## GitHub activity
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ayush-verma25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-verma25&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ayush-verma25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ayush's GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-verma25&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Ayush's most used languages" />
 
-<br/>
+<br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-verma25&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-verma25&theme=tokyonight&hide_border=true" alt="Ayush's GitHub contribution streak" />
 
 </div>
 
----
+## Open to work
 
-## 🌱 Currently Learning & Exploring
+I’m ready to contribute as a **Full-Stack / MERN / React / Node.js Developer**. I’m especially interested in teams building SaaS products, marketplaces, internal tools, AI-enabled applications, or customer-facing web platforms.
 
-- ⚛️ Advanced **React** patterns — hooks, performance optimization, state management
-- 🅰️ **Angular** & **Vue.js** — expanding framework versatility
-- 🟢 **Node.js / Express** — scalable REST API design, authentication and security
-- 🗄️ **MongoDB & MySQL** — schema design and query optimization
-- 🧪 Testing, clean code practices and **DSA** for problem solving
-- ☁️ Deployment basics — CI/CD, environment management
-
----
-
-## 🎯 What I Bring to a Team
-
-- ✅ **End-to-end ownership** — I can take a feature from UI → API → database → deployment
-- ✅ **Strong problem-solving mindset** and attention to detail
-- ✅ **Multiple frameworks** — comfortable across React, Angular and Node ecosystems
-- ✅ **Documentation habits** — I write READMEs, diagrams and roadmaps so projects are easy to understand and extend
-- ✅ **Fast learner** who actively keeps up with modern tools and best practices
-- ✅ **Collaborative** communicator, open to feedback and code reviews
-
----
-
-<!--
-  ✏️ OPTIONAL — fill these in and move them out of the comment block
-  (delete the "<!--" line above and the "-->" line below) to make them visible.
-
-## 🎓 Education
-
-- **Your Degree** — Your College / University (Year – Year)
-
-## 💼 Experience
-
-- **Role** — Company / Internship (Month Year – Month Year)
-  - What you built / achieved (use numbers where possible)
-
-## 🏆 Certifications & Achievements
-
-- Certification name — Issuer (Year)
-
-## 🌐 Portfolio
-
-- [your-portfolio-link.com](https://your-portfolio-link.com)
--->
-
-## 🤝 Let's Connect
-
-I'm **open to Full Stack / MERN Stack opportunities** and happy to collaborate on interesting projects. The best way to reach me:
+**Location:** Ajmer, Rajasthan, India · Open to remote opportunities and relocation  
+**Contact:** [Email](mailto:ayve012@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ayush-verma-2b8223329/)
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ayush--verma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-verma-2b8223329/)
-[![Gmail](https://img.shields.io/badge/Gmail-ayve012%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayve012@gmail.com)
+Thanks for visiting — feel free to explore my repositories, connect, or reach out about an opportunity.
 
-<br/>
-
-⭐ *If you like my work, feel free to star a repo or follow me — thanks for stopping by!* ⭐
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="Footer" />
 
 </div>
