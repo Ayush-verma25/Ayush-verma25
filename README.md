@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Ayush%20Verma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%26%20PERN%20%7C%20Building%20useful%20web%20products&descAlignY=61&descSize=18" width="100%" alt="Ayush Verma banner" />
+<img src="https://raw.githubusercontent.com/Ayush-verma25/Ayush-verma25/main/assets/profile-banner.svg" width="100%" alt="Ayush Verma — Full-Stack Developer" />
 
 <a href="https://github.com/Ayush-verma25">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=1000&color=2DD4BF&center=true&vCenter=true&width=780&lines=Hi%2C+I%27m+Ayush+Verma+%F0%9F%91%8B;Full-stack+developer+who+builds+end-to-end+web+products;React+%7C+TypeScript+%7C+Node.js+%7C+MongoDB+%7C+PostgreSQL;%F0%9F%9F%A2+Open+to+work+and+ready+to+contribute" alt="Typing introduction" />
@@ -110,9 +110,23 @@ A browser-based resume builder with live previews, templates, public sharing, PD
 
 ## Technical toolkit
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,vue,redux,tailwind,bootstrap,nodejs,express,mongodb,postgres,prisma,mysql,git,github,postman,vercel,cloudinary,firebase&perline=11" alt="Technology icons for Ayush's skills" />
-</p>
+<div align="center">
+
+![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-047857?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![Prisma](https://img.shields.io/badge/Prisma-1E293B?style=for-the-badge&logo=prisma&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0891B2?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+
+</div>
 
 | Category | Technologies |
 | :-- | :-- |
