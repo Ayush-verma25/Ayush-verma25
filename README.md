@@ -147,18 +147,17 @@ I enjoy solving the practical parts of full-stack product development:
 - Integrating third-party services thoughtfully: payments, media, AI, and external APIs
 - Writing thorough project documentation so collaborators can run, review, and extend the work
 
-## GitHub activity
+## GitHub portfolio snapshot
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ayush-verma25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ayush's GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-verma25&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Ayush's most used languages" />
-
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-verma25&theme=tokyonight&hide_border=true" alt="Ayush's GitHub contribution streak" />
+<a href="https://github.com/Ayush-verma25?tab=repositories">
+  <img src="https://raw.githubusercontent.com/Ayush-verma25/Ayush-verma25/main/assets/github-snapshot.svg" width="100%" alt="Ayush Verma's GitHub portfolio snapshot: 47 public repositories and six featured full-stack applications" />
+</a>
 
 </div>
+
+> This snapshot is hosted directly in this repository for reliable rendering. Visit my [repositories](https://github.com/Ayush-verma25?tab=repositories) to explore the latest work.
 
 ## Open to work
 
