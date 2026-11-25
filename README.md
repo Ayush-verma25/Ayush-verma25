@@ -1,238 +1,181 @@
+<!-- ═══════════════════════════════════════════════════════════════
+  Profile README for github.com/Ayush-verma25
+  Search for "👉 EDIT" and replace everything in [BRACKETS] with your real details.
+═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ayush%20Verma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20MERN%20%E2%80%A2%20TypeScript%20%E2%80%A2%20AI%20Integration&descAlignY=58&descSize=18" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=230&section=header&text=Ayush%20Verma&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20%26%20PERN%20%E2%80%A2%20Problem%20Solver&descAlignY=60&descSize=20" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=I+build+AI-powered+full-stack+products;React+19+%7C+Node.js+%7C+Express+5+%7C+MongoDB+%7C+PostgreSQL;Open+to+Full-Stack+Developer+roles+%F0%9F%9A%80)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Ayush+Verma;I+build+scalable+full-stack+web+apps;MERN+%7C+PERN+%7C+REST+APIs+%7C+Multi-tenant+SaaS;Open+to+Internships+%26+Full-Time+Roles+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-verma-2b8223329)
-[![Email](https://img.shields.io/badge/Email-ayve012@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayve012@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/Ayush-verma25?style=for-the-badge&logo=github&color=181717)](https://github.com/Ayush-verma25)
-![Profile views](https://komarev.com/ghpvc/?username=Ayush-verma25&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ayush-verma25&label=Profile%20Views&color=a855f7&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Ayush-verma25?style=for-the-badge&logo=github&color=ec4899&labelColor=1f2937)
+![Open To Work](https://img.shields.io/badge/Open%20to-Work-22c55e?style=for-the-badge&logo=target&logoColor=white)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[YOUR-LINKEDIN-ID])
+[![Gmail](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[YOUR-EMAIL])
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://[YOUR-PORTFOLIO-URL])
+[![Resume](https://img.shields.io/badge/Resume-Download-F59E0B?style=for-the-badge&logo=readthedocs&logoColor=white)](https://[LINK-TO-YOUR-RESUME-PDF])
 
 </div>
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-I'm a **MERN Stack Developer** based in **Ajmer, Rajasthan, India** with over a year of internship experience and a portfolio of **full-stack products that go beyond CRUD**: AI pipelines, role-based access control, payments, background jobs, multi-tenant architecture and production deployments.
+```js
+const ayush = {
+  name: "Ayush Verma",
+  role: "Full Stack Developer",
+  location: "Ajmer, Rajasthan, India 🇮🇳",         // 👉 EDIT if you want a different location
+  education: "[YOUR DEGREE] @ [YOUR COLLEGE]",     // 👉 EDIT
+  coreStack: ["React", "Node.js", "Express", "PostgreSQL", "MongoDB"],
+  currentFocus: "Building production-style multi-tenant & marketplace apps",
+  currentlyLearning: ["[SKILL 1]", "[SKILL 2]", "[SKILL 3]"],   // 👉 EDIT
+  lookingFor: "Internships • Full-time SDE / Full Stack roles • Open-source collabs",
+  funFact: "[ADD A SHORT, FUN FACT ABOUT YOU]"     // 👉 EDIT
+};
+```
 
-- 🤖 Building **AI-integrated apps** with Google Gemini, OpenAI SDK, OpenRouter, Vercel AI SDK and Leonardo AI
-- 🏗️ Comfortable across **MERN and PERN** stacks, with **TypeScript** on my newest projects
-- 🔐 Experienced with **JWT auth, RBAC, Stripe / Razorpay payments, webhooks and cron / workflow jobs**
-- 🚢 Ship to **Vercel, Render and AWS** with CI/CD via GitHub Actions
-- 🎯 **Looking for:** a Full-Stack Developer role where I can build, test and maintain scalable web applications
-
----
-
-## 🚀 Featured Projects
-
-### 🛍️ [Orbivo: Multi-Tenant E-Commerce Platform](https://github.com/Ayush-verma25/Orbivo-E-Commerce-Platform-App) &nbsp; [![Live](https://img.shields.io/badge/Live_Demo-Open-22C55E?style=flat-square&logo=render&logoColor=white)](https://orbivo-e-commerce-platform-frontend.onrender.com)
-
-> Anyone can launch their own branded online store in minutes: isolated storefronts for customers, a management console for merchants, and platform-wide oversight for admins.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Express](https://img.shields.io/badge/Express_5-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL_(Neon)-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma_7-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary_AI-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
-
-- **Tenant isolation by construction:** every merchant query is scoped to the store resolved from the authenticated token, never from client input
-- **Race-free checkout:** Prisma transactions with conditional stock decrements, so inventory can't oversell; prices are recomputed server-side
-- **AI product photography** via Cloudinary generative AI: recolor, background removal and on-model virtual try-on
-- **Hardened uploads:** magic-byte file checks, SVG sanitising and SSRF protection on remote image URLs
-- Three roles (Customer / Merchant / Platform Admin), per-store theming and a Neon Function serving public reads
-- *Frontend builds on the open-source StoreiFly project (MIT); the API layer, Neon Function, AI pipelines and admin features are my additions.*
-
----
-
-### 🤖 AI-Integrated Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 📣 [PostPilot](https://github.com/Ayush-verma25/PostPilot-Social-Media-Automation-Platform-App) &nbsp; [🔗 Live](https://postpilot-social-media-automation.onrender.com)
-**AI Social Media Automation Platform**
-
-Compose, AI-generate, schedule and publish posts to **X, LinkedIn, Facebook and Instagram** from one dashboard.
-
-- Strict-mode **TypeScript** MERN app
-- **Crash-safe node-cron scheduler:** atomic claims, idempotency keys and reconciliation, so posts are never double-published or lost
-- **Gemini** captions (retry with backoff, model fallback) + **Leonardo AI** images hosted on Cloudinary
-- JWT, bcrypt, Helmet and rate limiting
-
-`TypeScript` `React 19` `Express 5` `MongoDB` `Gemini` `Leonardo AI` `Cloudinary`
-
-</td>
-<td width="50%" valign="top">
-
-#### ⚡ [SiteSpark](https://github.com/Ayush-verma25/SiteSpark-AI-Website-Builder-App) &nbsp; [🔗 Live](https://site-spark-ai-website-builder-app-t.vercel.app/login)
-**AI Website Builder**
-
-Describe a site in plain English; an AI agent plans it, writes the React code and previews it live.
-
-- **Two-phase AI pipeline:** file plan, then parallel generation with retries
-- **Zod-validated structured output** and auto-repair of common LLM code mistakes
-- **Chat-based revisions** applied as create / update / delete patches, not full rewrites
-- Live **Sandpack** preview, one-click publish and ZIP export
-
-`React 19` `Express 5` `MongoDB` `Vercel AI SDK` `OpenRouter` `Zod`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🧠 [Vertexa](https://github.com/Ayush-verma25/Vertexa-Full-Stack-AI-SaaS-App) &nbsp; [🔗 Live](https://vertexa-ai-frontend.onrender.com)
-**Full-Stack AI SaaS Suite (PERN)**
-
-Six AI tools behind one dashboard: article writer, blog titles, image generator, background remover, object remover and an ATS-aware resume reviewer.
-
-- **Clerk** auth and subscription billing with **server-side Free / Premium gating**
-- **Gemini** (via OpenAI SDK), **ClipDrop** and **Cloudinary AI**
-- Community gallery with atomic likes in a single SQL update
-- Prompt-injection-resistant resume review, hardened file uploads
-
-`React 19` `Express 5` `PostgreSQL (Neon)` `Clerk` `Gemini` `Cloudinary`
-
-</td>
-<td width="50%" valign="top">
-
-#### 📄 [ResumeNova](https://github.com/Ayush-verma25/ResumeNova-AI-Resume-Builder-APP) &nbsp; [🔗 Live](https://resume-nova-ai-resume-builder-app.vercel.app)
-**AI Resume Builder**
-
-Build, polish, import, share and print professional resumes.
-
-- Live preview, **4 templates**, accent colours, public share links, print-to-PDF
-- **AI Enhance** for summaries and job descriptions
-- **AI PDF import:** extracted text becomes structured, editable resume data via an LLM in JSON mode
-- Redux Toolkit auth state, ImageKit face-cropped photos
-
-`React 19` `Redux Toolkit` `Express 5` `MongoDB` `OpenAI SDK` `ImageKit`
-
-</td>
-</tr>
-</table>
-
----
-
-### 🏢 More Production-Style Apps
-
-| Project | What it does | Stack | Links |
-|:--|:--|:--|:--|
-| **WorkPilot** | Employee management with separate Admin / Employee portals for attendance, leave and payroll; RBAC re-verified from the DB on every request; MongoDB transactions; Inngest workflows for reminders and leave escalations; 21 backend regression tests | React 19, Express 5, MongoDB, Inngest, Nodemailer | [Code](https://github.com/Ayush-verma25/WorkPilot_Employment_Management_App_MERN) · [Live](https://work-pilot-employment-management-ap-six.vercel.app) |
-| **SkillSpring (LMS)** | Learning management system: educators publish video courses; students discover, buy, watch and track them | MERN | [Code](https://github.com/Ayush-verma25/LMS-Website-App-MERN) · [Live](https://lms-website-app-mern-jhzn.vercel.app/) |
-| **LMS Course Platform** | Second LMS built with the modern Next.js stack | Next.js 15, Clerk, Sanity CMS, Stripe, TypeScript | [Code](https://github.com/Ayush-verma25/Lms-Course-Platform-NextJs) · [Live](https://lms-course-platform-next-js.vercel.app) |
-| **BiteMo** | Restaurant discovery and table reservation with owner dashboards and admin approval flow | MERN, TypeScript | [Code](https://github.com/Ayush-verma25/BiteMo-App) · [Live](https://bite-mo-app-client.vercel.app/) |
-| **QuickStay** | Hotel booking with live availability, online payment and owner revenue dashboard | MERN | [Code](https://github.com/Ayush-verma25/QuickStay-Hotel-Booking-App) · [Live](https://quick-stay-hotel-booking-app-io73.vercel.app/) |
-| **QuickShow** | Movie discovery and cinema seat booking with Stripe Checkout and admin dashboard | MERN, Stripe | [Code](https://github.com/Ayush-verma25/QuickShow-Movie-App-MERN) · [Live](https://quickshow-movie-app-mern-client.vercel.app/) |
-| **Doctor Appointment System** | Browse doctors, book slots and pay online; separate admin and doctor dashboards | MERN, Razorpay | [Code](https://github.com/Ayush-verma25/Doctor-Appointment-Booking-System-MERN) · [Live](https://doctor-appointment-booking-system-mern-vct1.onrender.com) |
-| **GreenCart** | Grocery e-commerce with COD / Stripe payments and a seller dashboard | MERN, Stripe | [Code](https://github.com/Ayush-verma25/Green-Cart-MERN) · [Live](https://green-cart-mern-client.vercel.app/) |
-| **Zomo** | Zomato-inspired food delivery app | MERN | [Code](https://github.com/Ayush-verma25/Zomo-Food-Delivery-App-MERN) · [Live](https://zomo-food-delivery-app-mern-frontend.onrender.com) |
-| **JobPortal** | Students search and apply; recruiters post jobs and review applicants | MERN | [Code](https://github.com/Ayush-verma25/JobPortal-App-MERN) · [Live](https://jobportal-app-mern-client.vercel.app/) |
-
-<details>
-<summary><b>🧪 Range across frameworks (click to expand)</b></summary>
-<br/>
-
-- **Angular 16:** [YourCartShop](https://github.com/Ayush-verma25/YourCartShop-App-Angular), a responsive e-commerce storefront ([live](https://your-cart-shop-app-angular.vercel.app))
-- **Vue.js:** [Search Meals](https://github.com/Ayush-verma25/Search-Meals-with-VueJS), a recipe discovery SPA ([live](https://search-meals-with-vue-js.vercel.app))
-- **Next.js:** [Blog App](https://github.com/Ayush-verma25/Nextjs-Blog-App), [Airbnb clone](https://github.com/Ayush-verma25/Airbnb-clone-using-NEXTJS), [Hulu clone](https://github.com/Ayush-verma25/Hulu-2.0-NextJs-TailwindCss)
-- **React Native (Expo):** [Delivero food delivery](https://github.com/Ayush-verma25/Delivero-Food-Delivery-App-Using-Expo-React-Native) plus to-do apps backed by MongoDB and Firebase
-- **Node.js backend:** [Job scheduler](https://github.com/Ayush-verma25/job-scheduler-using-NodeJS) for one-off and recurring tasks
-- **Full-stack:** [Crypto tracker](https://github.com/Ayush-verma25/Full-Stack-Crypto-Tracker-App) with live price updates every 3 minutes
-
-</details>
+- 🔭 I build **end-to-end web applications** — from database schema design to polished React UIs
+- 🏗️ I enjoy **architecture-heavy projects**: multi-tenancy, authentication, role-based access, payments and booking flows
+- 🌱 Currently levelling up in **[SKILL / TOPIC]** and **[SKILL / TOPIC]**
+- 💬 Ask me about: **React, Node.js, Express, PostgreSQL, MongoDB, REST API design**
+- 📫 Fastest way to reach me: **[YOUR-EMAIL]** or LinkedIn DM
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![MUI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-
-**Backend**
-
+### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT_&_RBAC-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-**Databases**
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-**AI Integration**
-
-![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_SDK-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK_+_OpenRouter-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Leonardo](https://img.shields.io/badge/Leonardo_AI-7C3AED?style=for-the-badge)
-
-**Testing, DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_EC2_&_S3-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-**Payments & Services**
+<!-- 👉 EDIT: add/remove badges for languages you actually know: Python, Java, C++, Docker, AWS, etc.
+     Browse badges at https://shields.io and https://simpleicons.org -->
 
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white)
-![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+---
 
-</div>
+## 🚀 Featured Projects
+
+### 🛍️ Orbivo — Multi-Tenant E-Commerce Platform &nbsp;`PERN Stack`
+> A full-stack, multi-tenant e-commerce platform where multiple stores can run on one system.
+
+- 🏪 Multi-tenant store architecture (separate **client** and **server** apps)
+- 🔐 Secure authentication & role-based access
+- 🗄️ Relational data modelling with **PostgreSQL**
+- ⚛️ Responsive **React** storefront and dashboard
+
+**Tech:** `React` `Node.js` `Express` `PostgreSQL`
+&nbsp;|&nbsp; [🔗 Repository](https://github.com/Ayush-verma25/[ORBIVO-REPO-NAME]) &nbsp;|&nbsp; [🌐 Live Demo](#)
+<!-- 👉 EDIT: replace repo name + add live demo URL, add real features (payments, cart, admin panel, etc.) -->
+
+---
+
+### 🚗 Autovia — Car Rental Booking App &nbsp;`MERN Stack` &nbsp;![Status](https://img.shields.io/badge/status-in%20progress-f59e0b?style=flat-square)
+> A full-stack car rental platform for browsing, booking and managing vehicle rentals.
+
+- 📅 Booking flow with availability handling
+- 👤 User & admin experiences
+- 🧩 Built with the **MongoDB, Express, React, Node** stack
+
+**Tech:** `MongoDB` `Express` `React` `Node.js`
+&nbsp;|&nbsp; [🔗 Repository](#)
+<!-- 👉 EDIT: add the repo link + the features you've actually built -->
+
+---
+
+### 💬 Social Media Marketplace App &nbsp;`PERN Stack` &nbsp;![Status](https://img.shields.io/badge/status-in%20progress-f59e0b?style=flat-square)
+> A full-stack platform that blends social networking with a buy/sell marketplace.
+
+- 🧑‍🤝‍🧑 Social features + marketplace listings in one app
+- 🗄️ **PostgreSQL**-backed data layer
+
+**Tech:** `PostgreSQL` `Express` `React` `Node.js`
+&nbsp;|&nbsp; [🔗 Repository](#)
+<!-- 👉 EDIT: add the final app name + repo link -->
+
+---
+
+### 📌 More Projects
+<!-- 👉 EDIT: add other repos from your GitHub, e.g. -->
+| Project | Description | Tech | Link |
+|---|---|---|---|
+| **[Project Name]** | [One-line description] | `[Tech]` `[Tech]` | [Repo](#) |
+| **[Project Name]** | [One-line description] | `[Tech]` `[Tech]` | [Repo](#) |
+
+> 💡 **Tip:** Pin your best 6 repositories on your profile so they show right below this README.
+
+---
+
+## 🌱 Currently Learning
+
+| Area | Focus | Progress |
+|---|---|---|
+| 🔷 [e.g. TypeScript] | [Typed full-stack apps] | ![](https://geps.dev/progress/50) |
+| 🐳 [e.g. Docker] | [Containerizing my apps] | ![](https://geps.dev/progress/30) |
+| 🧠 [e.g. DSA] | [Problem solving practice] | ![](https://geps.dev/progress/60) |
+| ☁️ [e.g. AWS / Deployment] | [Cloud basics & CI/CD] | ![](https://geps.dev/progress/25) |
+
+<!-- 👉 EDIT: replace with your real new skills and honest progress % -->
 
 ---
 
 ## 💼 Experience
 
-**MERN Stack Developer Intern** · GRRAS Solutions Pvt. Ltd. · *Feb 2024 – Dec 2024*
-- Built and shipped **3+ end-to-end MERN applications** with React frontends, Express REST APIs and MongoDB
-- Implemented **JWT authentication and RBAC** across 2 production applications with multi-role workflows
-- Optimized REST APIs and MongoDB queries (indexing, query restructuring); improved frontend load time with code splitting and lazy loading
-- Set up **CI/CD pipelines** to automate deployments across AWS, Vercel and Render
+<!-- 👉 EDIT: fill from your resume / LinkedIn. Delete this block if you have no experience yet and use "Projects" instead. -->
 
-**Web Development Intern** · Carikture India Pvt. Ltd. · *Jul 2022 – Sep 2022*
-- Built 4+ responsive interfaces (HTML, CSS, JavaScript, Node.js), integrated 3 third-party REST APIs and resolved 15+ UI/UX issues
+### [Job Title / Internship] — *[Company Name]*
+📅 `[Month Year] – [Month Year]` &nbsp;|&nbsp; 📍 [Location / Remote]
+- [Achievement with a number — e.g. "Built X feature that reduced Y by 30%"]
+- [Technologies used and what you owned]
+- [Collaboration / impact]
 
-## 🎓 Education & Certification
+---
 
-- **MCA**, Jaipur National University, Jaipur · *2020 – 2022*
-- **BCA**, S.S. Jain Subodh College, Jaipur · *2017 – 2020*
-- **MERN Stack Developer Certificate**, GRRAS Solutions Pvt. Ltd.
+## 🎓 Education
+
+<!-- 👉 EDIT: fill from your resume / LinkedIn -->
+
+| Degree | Institution | Year | Score |
+|---|---|---|---|
+| 🎓 [B.Tech / BCA / B.Sc — Branch] | [College / University] | [20XX – 20XX] | [CGPA / %] |
+| 📘 [Class XII] | [School] | [Year] | [%] |
+
+---
+
+## 🏆 Achievements & Certifications
+
+<!-- 👉 EDIT: keep only true items -->
+- 🥇 [Hackathon / competition / ranking]
+- 📜 [Certification name — Issuer, Year]
+- 🧩 [Coding platform stats — e.g. "300+ problems solved on LeetCode"]
 
 ---
 
@@ -240,26 +183,38 @@ Build, polish, import, share and print professional resumes.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ayush-verma25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-verma25&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ayush-verma25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=EC4899" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-verma25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-verma25&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-verma25&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-verma25&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=EC4899&currStreakLabel=A855F7" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ayush-verma25&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
 
 </div>
 
+### 📈 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-verma25&theme=tokyo-night&hide_border=true&area=true&color=A855F7&line=EC4899&point=ffffff" width="100%"/>
+
 ---
 
-## 📫 Let's Connect
+## 🤝 Let's Work Together
 
-I'm actively looking for **Full-Stack / MERN Developer** opportunities. If you're building something interesting, I'd love to hear about it.
+I'm actively looking for **internships and full-time Full Stack / Software Developer roles**. If you have an opportunity, a project idea or just want to talk tech, I'd love to hear from you.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ayush--verma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-verma-2b8223329)
-[![Email](https://img.shields.io/badge/Email-ayve012@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayve012@gmail.com)
+[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[YOUR-EMAIL])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[YOUR-LINKEDIN-ID])
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://[YOUR-PORTFOLIO-URL])
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer"/>
+<br/>
+
+⭐ *If you like my work, drop a star on my repos — it keeps me going!* ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=120&section=footer" width="100%"/>
 
 </div>
