@@ -1,181 +1,155 @@
-<!-- ═══════════════════════════════════════════════════════════════
-  Profile README for github.com/Ayush-verma25
-  Search for "👉 EDIT" and replace everything in [BRACKETS] with your real details.
-═══════════════════════════════════════════════════════════════ -->
+<!-- ============================================================
+  PROFILE README for github.com/Ayush-verma25
+  Search for "TODO" and replace every placeholder before publishing.
+  Rename this file to README.md inside your Ayush-verma25/Ayush-verma25 repo.
+============================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=230&section=header&text=Ayush%20Verma&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20%26%20PERN%20%E2%80%A2%20Problem%20Solver&descAlignY=60&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ayush%20Verma&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20MERN%20%26%20PERN&descSize=20&descAlignY=58" alt="Ayush Verma banner" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Ayush+Verma;I+build+scalable+full-stack+web+apps;MERN+%7C+PERN+%7C+REST+APIs+%7C+Multi-tenant+SaaS;Open+to+Internships+%26+Full-Time+Roles+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+scalable+full+stack+web+apps;MERN+%2B+PERN+stack+developer;Turning+ideas+into+production-ready+products;Open+to+internships+and+full-time+roles" alt="Typing animation" />
 </a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ayush-verma25&label=Profile%20Views&color=a855f7&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/Ayush-verma25?style=for-the-badge&logo=github&color=ec4899&labelColor=1f2937)
-![Open To Work](https://img.shields.io/badge/Open%20to-Work-22c55e?style=for-the-badge&logo=target&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=Ayush-verma25&label=Profile%20Views&color=7c3aed&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Ayush-verma25?style=for-the-badge&logo=github&color=ec4899&labelColor=1e1b4b)
+![Stars](https://img.shields.io/github/stars/Ayush-verma25?style=for-the-badge&logo=github&color=f59e0b&labelColor=1e1b4b)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[YOUR-LINKEDIN-ID])
-[![Gmail](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[YOUR-EMAIL])
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://[YOUR-PORTFOLIO-URL])
-[![Resume](https://img.shields.io/badge/Resume-Download-F59E0B?style=for-the-badge&logo=readthedocs&logoColor=white)](https://[LINK-TO-YOUR-RESUME-PDF])
+<br/>
+
+<a href="https://www.linkedin.com/in/TODO-your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:TODO-your-email@example.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://TODO-your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://TODO-link-to-your-resume.pdf"><img src="https://img.shields.io/badge/Resume-Download-10B981?style=for-the-badge&logo=readthedocs&logoColor=white"/></a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-```js
-const ayush = {
-  name: "Ayush Verma",
-  role: "Full Stack Developer",
-  location: "Ajmer, Rajasthan, India 🇮🇳",         // 👉 EDIT if you want a different location
-  education: "[YOUR DEGREE] @ [YOUR COLLEGE]",     // 👉 EDIT
-  coreStack: ["React", "Node.js", "Express", "PostgreSQL", "MongoDB"],
-  currentFocus: "Building production-style multi-tenant & marketplace apps",
-  currentlyLearning: ["[SKILL 1]", "[SKILL 2]", "[SKILL 3]"],   // 👉 EDIT
-  lookingFor: "Internships • Full-time SDE / Full Stack roles • Open-source collabs",
-  funFact: "[ADD A SHORT, FUN FACT ABOUT YOU]"     // 👉 EDIT
-};
-```
+I'm a **full stack developer** who enjoys shipping complete web products, from database schema to polished UI. I work primarily with the **MERN** and **PERN** stacks and care about clean architecture, reusable components, and real-world features like multi-tenancy and booking flows.
 
-- 🔭 I build **end-to-end web applications** — from database schema design to polished React UIs
-- 🏗️ I enjoy **architecture-heavy projects**: multi-tenancy, authentication, role-based access, payments and booking flows
-- 🌱 Currently levelling up in **[SKILL / TOPIC]** and **[SKILL / TOPIC]**
-- 💬 Ask me about: **React, Node.js, Express, PostgreSQL, MongoDB, REST API design**
-- 📫 Fastest way to reach me: **[YOUR-EMAIL]** or LinkedIn DM
-
----
-
-## 🛠️ Tech Stack
-
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-<!-- 👉 EDIT: add/remove badges for languages you actually know: Python, Java, C++, Docker, AWS, etc.
-     Browse badges at https://shields.io and https://simpleicons.org -->
+- 🔭 Currently building: **Orbivo**, a multi-tenant e-commerce platform
+- 🌱 Currently learning: `TODO: e.g. TypeScript, Next.js, Docker, System Design`
+- 💬 Ask me about: **React, Node.js, Express, PostgreSQL, MongoDB, REST APIs**
+- 🎯 Open to: **Internships, full-time roles, freelance and open-source collaboration**
+- 📫 Reach me: **TODO-your-email@example.com**
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛍️ Orbivo — Multi-Tenant E-Commerce Platform &nbsp;`PERN Stack`
-> A full-stack, multi-tenant e-commerce platform where multiple stores can run on one system.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- 🏪 Multi-tenant store architecture (separate **client** and **server** apps)
-- 🔐 Secure authentication & role-based access
-- 🗄️ Relational data modelling with **PostgreSQL**
-- ⚛️ Responsive **React** storefront and dashboard
+### 🛍️ Orbivo: E-Commerce Platform
+**Multi-tenant store platform (PERN stack)**
 
-**Tech:** `React` `Node.js` `Express` `PostgreSQL`
-&nbsp;|&nbsp; [🔗 Repository](https://github.com/Ayush-verma25/[ORBIVO-REPO-NAME]) &nbsp;|&nbsp; [🌐 Live Demo](#)
-<!-- 👉 EDIT: replace repo name + add live demo URL, add real features (payments, cart, admin panel, etc.) -->
+A full stack e-commerce application with a separate client and server, built so multiple stores can run on one platform.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+[🔗 View Repository](https://github.com/Ayush-verma25/TODO-orbivo-repo-name)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚗 Autovia: Car Rental Booking App
+**MERN stack · In development**
+
+A full stack car rental platform for browsing, booking and managing vehicle rentals.
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+[🔗 View Repository](https://github.com/Ayush-verma25/TODO-autovia-repo-name)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💬 Social Media Marketplace
+**PERN stack · Planned**
+
+A marketplace that blends social features with buying and selling.
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### ➕ Add Another Project
+`TODO: add a 4th project, or delete this cell.`
+One line on what it does and the stack used.
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🚗 Autovia — Car Rental Booking App &nbsp;`MERN Stack` &nbsp;![Status](https://img.shields.io/badge/status-in%20progress-f59e0b?style=flat-square)
-> A full-stack car rental platform for browsing, booking and managing vehicle rentals.
+## 🛠️ Tech Stack
 
-- 📅 Booking flow with availability handling
-- 👤 User & admin experiences
-- 🧩 Built with the **MongoDB, Express, React, Node** stack
+<div align="center">
 
-**Tech:** `MongoDB` `Express` `React` `Node.js`
-&nbsp;|&nbsp; [🔗 Repository](#)
-<!-- 👉 EDIT: add the repo link + the features you've actually built -->
+**Languages & Frontend**
 
----
+<img src="https://skillicons.dev/icons?i=js,html,css,react&theme=dark" /><br/>
 
-### 💬 Social Media Marketplace App &nbsp;`PERN Stack` &nbsp;![Status](https://img.shields.io/badge/status-in%20progress-f59e0b?style=flat-square)
-> A full-stack platform that blends social networking with a buy/sell marketplace.
+**Backend & Databases**
 
-- 🧑‍🤝‍🧑 Social features + marketplace listings in one app
-- 🗄️ **PostgreSQL**-backed data layer
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb&theme=dark" /><br/>
 
-**Tech:** `PostgreSQL` `Express` `React` `Node.js`
-&nbsp;|&nbsp; [🔗 Repository](#)
-<!-- 👉 EDIT: add the final app name + repo link -->
+**Tools**
 
----
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
 
-### 📌 More Projects
-<!-- 👉 EDIT: add other repos from your GitHub, e.g. -->
-| Project | Description | Tech | Link |
-|---|---|---|---|
-| **[Project Name]** | [One-line description] | `[Tech]` `[Tech]` | [Repo](#) |
-| **[Project Name]** | [One-line description] | `[Tech]` `[Tech]` | [Repo](#) |
+<!-- TODO: add icon ids for tools you really use, e.g. ts,python,java,cpp,tailwind,docker,nextjs -->
 
-> 💡 **Tip:** Pin your best 6 repositories on your profile so they show right below this README.
+</div>
 
 ---
 
 ## 🌱 Currently Learning
 
-| Area | Focus | Progress |
-|---|---|---|
-| 🔷 [e.g. TypeScript] | [Typed full-stack apps] | ![](https://geps.dev/progress/50) |
-| 🐳 [e.g. Docker] | [Containerizing my apps] | ![](https://geps.dev/progress/30) |
-| 🧠 [e.g. DSA] | [Problem solving practice] | ![](https://geps.dev/progress/60) |
-| ☁️ [e.g. AWS / Deployment] | [Cloud basics & CI/CD] | ![](https://geps.dev/progress/25) |
-
-<!-- 👉 EDIT: replace with your real new skills and honest progress % -->
-
----
-
-## 💼 Experience
-
-<!-- 👉 EDIT: fill from your resume / LinkedIn. Delete this block if you have no experience yet and use "Projects" instead. -->
-
-### [Job Title / Internship] — *[Company Name]*
-📅 `[Month Year] – [Month Year]` &nbsp;|&nbsp; 📍 [Location / Remote]
-- [Achievement with a number — e.g. "Built X feature that reduced Y by 30%"]
-- [Technologies used and what you owned]
-- [Collaboration / impact]
+| Skill | Why |
+|---|---|
+| `TODO` | `TODO` |
+| `TODO` | `TODO` |
+| `TODO` | `TODO` |
 
 ---
 
 ## 🎓 Education
 
-<!-- 👉 EDIT: fill from your resume / LinkedIn -->
-
-| Degree | Institution | Year | Score |
-|---|---|---|---|
-| 🎓 [B.Tech / BCA / B.Sc — Branch] | [College / University] | [20XX – 20XX] | [CGPA / %] |
-| 📘 [Class XII] | [School] | [Year] | [%] |
+**TODO: Degree, e.g. B.Tech in Computer Science**
+🏫 TODO: College / University · 📅 TODO: 20XX – 20XX
+*Relevant coursework: Data Structures, DBMS, Operating Systems, Web Technologies*
 
 ---
 
-## 🏆 Achievements & Certifications
+## 💼 Experience
 
-<!-- 👉 EDIT: keep only true items -->
-- 🥇 [Hackathon / competition / ranking]
-- 📜 [Certification name — Issuer, Year]
-- 🧩 [Coding platform stats — e.g. "300+ problems solved on LeetCode"]
+**TODO: Role** · TODO: Company · 📅 TODO: Month Year – Month Year
+- TODO: one achievement with a number (e.g. "Built X, reducing Y by 30%")
+- TODO: second achievement
+- TODO: tech used
+
+<!-- Fresher? Replace this section with "Internships & Certifications" or "Achievements". -->
 
 ---
 
@@ -183,38 +157,30 @@ const ayush = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ayush-verma25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=EC4899" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-verma25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ayush-verma25&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-verma25&layout=compact&theme=radical&hide_border=true" />
 
-<br/>
+<img src="https://streak-stats.demolab.com/?user=Ayush-verma25&theme=radical&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-verma25&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=EC4899&currStreakLabel=A855F7" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ayush-verma25&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-verma25&theme=react-dark&hide_border=true&area=true" width="100%" />
 
 </div>
-
-### 📈 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-verma25&theme=tokyo-night&hide_border=true&area=true&color=A855F7&line=EC4899&point=ffffff" width="100%"/>
 
 ---
 
 ## 🤝 Let's Work Together
 
-I'm actively looking for **internships and full-time Full Stack / Software Developer roles**. If you have an opportunity, a project idea or just want to talk tech, I'd love to hear from you.
+I'm actively looking for opportunities where I can contribute to real products and keep growing as an engineer. If you're hiring, reach out.
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[YOUR-EMAIL])
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[YOUR-LINKEDIN-ID])
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://[YOUR-PORTFOLIO-URL])
+<a href="mailto:TODO-your-email@example.com"><img src="https://img.shields.io/badge/Email%20Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/TODO-your-linkedin/"><img src="https://img.shields.io/badge/Message%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-<br/>
+<br/><br/>
 
-⭐ *If you like my work, drop a star on my repos — it keeps me going!* ⭐
+*⭐ If you like my work, a star on a repo goes a long way!*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 </div>
